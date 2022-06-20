@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Princeton University</a>. .
+subtitle: Postdoctoral researcher, <a href='#'>Princeton University</a>
 
 profile:
   align: right
